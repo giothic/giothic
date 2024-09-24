@@ -1,11 +1,13 @@
-## 📖 My Story
+# Hi, I'm Giovanna! 🍌'
+
+## 📖 My Story'
 I started in graphic design but shifted to Information Technology, encouraged by my father. Studying Software Engineering helped me build resilience.
 
 I discovered front-end development, merging my love for design and coding, which boosted my confidence and teamwork skills.
 
 
 
-### 🛠️ Skills and Technologies
+### 🛠️ Skills and Technologies'
 I have experience in:
 - **Java**
 - **HTML/CSS**
@@ -16,14 +18,14 @@ I have experience in:
 
 
 
-### 🌱 Recent Learnings
+### 🌱 Recent Learnings'
 Recently, I’ve focused on:
 - Improving my skills in **HTML**, **CSS**, and **JavaScript**.
 - Starting to learn **React** for interactive user interfaces.
 
 
 
-### 🎯 Next Steps
+### 🎯 Next Steps'
 I aim to:
 - Learn more about front-end development.
 - Build a personal portfolio website.
