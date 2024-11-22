@@ -16,8 +16,7 @@ I have experience in:
 - **JWT**
 - **Hibernate**
 
-![Banana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giothic&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giothic&layout=compact&theme=radical)
+![Banana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giothic&show_icons=true&theme=radical)  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=giothic&layout=compact&theme=radical)
 
 
 
