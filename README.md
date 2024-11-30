@@ -15,9 +15,11 @@ I have experience in:
 - **Hibernate**
 
 ### 📊 GitHub Stats
+![Banana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=giothic&show_icons=true&theme=radical)
+
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=giothic&theme=radical&hide_border=false&border_radius=5.7&card_width=465" alt="GitHub Streak" style="margin-right: 10px;">
+    <img src="https://streak-stats.demolab.com?user=giothic&theme=radical&hide_border=false&border_radius=5.7&card_width=465" alt="GitHub Streak" style="margin-right: 30px;">
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giothic&layout=compact&theme=radical" alt="Top Languages">
 </div>
